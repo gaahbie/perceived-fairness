@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "http://pesquisa.website/static/css/main.921631f2.chunk.css",
+    "main.js": "http://pesquisa.website/static/js/main.9b98f450.chunk.js",
+    "main.js.map": "http://pesquisa.website/static/js/main.9b98f450.chunk.js.map",
+    "runtime-main.js": "http://pesquisa.website/static/js/runtime-main.a743350f.js",
+    "runtime-main.js.map": "http://pesquisa.website/static/js/runtime-main.a743350f.js.map",
+    "static/js/2.8f600edb.chunk.js": "http://pesquisa.website/static/js/2.8f600edb.chunk.js",
+    "static/js/2.8f600edb.chunk.js.map": "http://pesquisa.website/static/js/2.8f600edb.chunk.js.map",
+    "index.html": "http://pesquisa.website/index.html",
+    "precache-manifest.bfe2c852bd4674d5c388e4f6be4eb36f.js": "http://pesquisa.website/precache-manifest.bfe2c852bd4674d5c388e4f6be4eb36f.js",
+    "service-worker.js": "http://pesquisa.website/service-worker.js",
+    "static/css/main.921631f2.chunk.css.map": "http://pesquisa.website/static/css/main.921631f2.chunk.css.map",
+    "static/js/2.8f600edb.chunk.js.LICENSE.txt": "http://pesquisa.website/static/js/2.8f600edb.chunk.js.LICENSE.txt",
+    "static/js/main.9b98f450.chunk.js.LICENSE.txt": "http://pesquisa.website/static/js/main.9b98f450.chunk.js.LICENSE.txt",
+    "static/media/money1.jpeg": "http://pesquisa.website/static/media/money1.3e7d0fb9.jpeg",
+    "static/media/money2.jpeg": "http://pesquisa.website/static/media/money2.bbed1a7e.jpeg",
+    "static/media/money3.jpeg": "http://pesquisa.website/static/media/money3.be1756f0.jpeg",
+    "static/media/pop1.jpeg": "http://pesquisa.website/static/media/pop1.0d1c7c48.jpeg",
+    "static/media/pop2.jpeg": "http://pesquisa.website/static/media/pop2.89b54946.jpeg",
+    "static/media/pop3.jpeg": "http://pesquisa.website/static/media/pop3.917a4ce7.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a743350f.js",
+    "static/js/2.8f600edb.chunk.js",
+    "static/css/main.921631f2.chunk.css",
+    "static/js/main.9b98f450.chunk.js"
+  ]
+}
